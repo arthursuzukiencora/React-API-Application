@@ -1,0 +1,23 @@
+.form-box {
+    margin: 1rem;
+}
+  
+.text-field .MuiOutlinedInput-root {
+    background-color: #ffffff;
+}
+
+.text-field .MuiOutlinedInput-root fieldset {
+    border-color: blue;
+}
+
+.text-field .MuiOutlinedInput-root:hover fieldset {
+    border-color: blue;
+}
+
+.text-field .MuiOutlinedInput-root.Mui-focused fieldset {
+    border-color: blue;
+}
+
+.text-field .MuiInputBase-input {
+    color: black;
+}
